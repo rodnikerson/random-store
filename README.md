@@ -20,8 +20,8 @@ Site destinado a compra de produtos variados, amplamente conhecido como e-commer
 - Comprar os itens e receber uma mensagem com a informação do preço
 
 ## Layout
-![Página inicial](https://ibb.co/TBw9pc6)
-![Cart](https://ibb.co/4VLR3cn)
+![Página inicial](https://i.ibb.co/svg8kjn/1-1.png)
+![Cart](https://i.ibb.co/0GLyvkR/1-2.png)
 
 ## Demonstração
 [Link da demonstração](https://dainty-kashata-ceb4db.netlify.app/)
